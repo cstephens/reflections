@@ -18,4 +18,10 @@ Q:  How do the diagrams help you visualize the branch structure?
 
 A:  They give confirmation on what "git log" should show.
 
+Q:  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+A:  Code that was removed in either branch from the common branch point is deleted in new head.  Code that was added in either branch from the common branch point is added resulting in all changes being reflected in the new head.  It is represented in the diagram that way because changes from both branches are considered.
+
+Q:  What are the pros and cons of GitÎéÎ÷s automatic merging vs. always doing merges manually?
+
+A:  Nobody's fault but mine.  Automatic merging gives up control of your code.
