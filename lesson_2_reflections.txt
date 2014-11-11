@@ -14,4 +14,8 @@ Q:  What are some situations when branches would be helpful in keeping your hist
 
 A:  I don't really know what you mean by history but if you wanted to try out some experimental functionality without altering the master code base that everyone else is using, you would want to create a new branch.
 
+Q:  How do the diagrams help you visualize the branch structure?
+
+A:  They give confirmation on what "git log" should show.
+
 
