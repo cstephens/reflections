@@ -5,3 +5,7 @@ A:  When you intend on working on the code base from multiple devices or when yo
 Q:  Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A:  You might not want to deal with conflicts until you are ready to push your changes.  You also don't want your local code base changing out from under you.
+
+Q:  Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A:  A fork is a clone within githum.  A clone is a copy of a git repository.  A brance is label tagged to a commit that represents a starting point of code changes that can be tracked back to the beginning of the project.
